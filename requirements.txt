@@ -1,5 +1,5 @@
-streamlit==1.25.0
-plotly==5.16.1
-colour-science==0.4.3
-numpy==1.24.3
-networkx==3.1
+streamlit
+plotly
+colour-science
+numpy
+networkx
